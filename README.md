@@ -1,4 +1,4 @@
 docker-sshd
 ===========
 
-SSHD base image for Docker
+SSHD base image for Docker with root login enabled
