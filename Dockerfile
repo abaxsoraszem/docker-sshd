@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Manfred Touron m@42.am
+MAINTAINER Abax Soraszem abax.soraszem@gmail.com
 
 ENV DEBIAN_FRONTEND noninteractive
 
